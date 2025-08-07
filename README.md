@@ -60,14 +60,12 @@ Here are some of my coolest works (more coming soon!):
   </p>
 </details>
 
-> *(These are placeholder examples. Replace with your own project links or repositories later.)*
-
 ---
 
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=samruthigurusamy&theme=onedark&no-bg=true&no-frame=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=samruthigurusamy&theme=onedark&no-frame=true&row=1&column=6" />
 </p>
 
 ---
