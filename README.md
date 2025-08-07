@@ -1,35 +1,20 @@
-<!-- README.md for Samruthi Gurusamy -->
-
-<div align="center">
-
-# 👩‍💻 Samruthi Gurusamy  
-### Full Stack Developer | AI Enthusiast | Database Explorer  
-
-![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=200&section=header&text=Welcome%20to%20my%20GitHub!&fontColor=ffffff&fontSize=32)
-
-</div>
-
----
-
-## 📬 Connect with Me
-
-- 📧 Email: **[samruthigurusamy@gmail.com](mailto:samruthigurusamy@gmail.com)**  
-- 🔗 LinkedIn: **[linkedin.com/in/samruthigurusamy](https://www.linkedin.com/in/samruthigurusamy)**  
-- 📸 Instagram: **[instagram.com/samruthigurusamy](https://www.instagram.com/samruthigurusamy)**  
-
----
-
-## 🏆 GitHub Trophies
-
+<h1 align="center">Hi there 👋, I'm Samruthi Gurusamy</h1>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=samruthigurusamy&theme=algolia&margin-w=15&margin-h=15&column=4" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=800&color=FFFFFF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+Explorer;Tech+Creative+with+a+Passion+for+Learning" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🚀 Tech Stack
+## 👩‍💻 About Me
+- 🎓 Student at **KGiSL Institute of Technology**
+- 💡 Passionate about **Full Stack Development** and **Artificial Intelligence**
+- 📚 Core academic subject: **Data Science** (not ML yet)
+- 🎨 Focused on **tech creativity** over academics here
 
-```bash
-💻 Languages: Python | C | JavaScript | HTML | CSS  
-🛠️ Tools: VS Code | Git | GitHub | Figma  
-🧠 Exploring: Full Stack Web Dev | AI | SQL & Databases
+---
+
+## 🧰 Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.i
