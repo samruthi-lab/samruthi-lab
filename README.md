@@ -64,12 +64,10 @@ Here are some of my coolest works (more coming soon!):
 
 ---
 
-### 📊 GitHub Stats
+### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=samruthigurusamy&theme=github-dark&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samruthigurusamy&layout=compact&theme=github_dark&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=samruthigurusamy&show_icons=true&theme=github_dark&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=samruthigurusamy&theme=onedark&no-bg=true&no-frame=true&margin-w=15" />
 </p>
 
 ---
