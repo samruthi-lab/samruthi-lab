@@ -27,3 +27,4 @@
 💻 I’m a Full Stack Developer currently learning AI  
 📊 I'm exploring Data Science (academic track)  
 🚀 Passionate about building smart solutions that blend code + creativity  
+
